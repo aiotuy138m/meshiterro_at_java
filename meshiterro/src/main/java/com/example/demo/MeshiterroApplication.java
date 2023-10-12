@@ -16,7 +16,7 @@ public class MeshiterroApplication {
 	public class HelloController {
 		@RequestMapping("/")
 		public String index() {
-			return "Hello World! Spring boot.";
+			return "Hello World! Spring ブーツ";
 		}
 	}
 }
